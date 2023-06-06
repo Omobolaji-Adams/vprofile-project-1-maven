@@ -1,3 +1,4 @@
-sonar.projectKey=Maven
-sonar.projectName=java-maven-project
+sonar.projectKey=develop
 sonar.sources=.
+sonar.host.url=http://15.188.185.134/
+sonar.login=squ_913ed39d7d7c6b65b287221ed17bedb7a2b4b6de
